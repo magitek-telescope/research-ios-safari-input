@@ -13,6 +13,12 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+  background: #f00;
+}
+
+html, body, #__layout, #__nuxt {
+  width: 100%;
+  height: 100%;
 }
 
 *,
